@@ -17,4 +17,5 @@ fig.3
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 
-$$a + b$$
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{2}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{2}{3}" title="\frac{2}{3}" /></a>

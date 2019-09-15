@@ -8,5 +8,7 @@ suvive
 
 
 
-*Item 1
-        *Item2
+```php
+$s = "PHP 語法高亮";
+echo $s;
+```

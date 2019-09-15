@@ -6,4 +6,4 @@ suvive
 
 ### hello world
 
-质能方程$E = mc^2$
+$\frac{x^{2}y^{2}}{x y}$

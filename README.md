@@ -6,4 +6,4 @@ suvive
 
 ### hello world
 
-![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
+质能方程$E = mc^2$

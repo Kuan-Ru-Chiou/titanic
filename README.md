@@ -14,39 +14,4 @@ fig.3
 
 
 
-
-
-```
-#include<cmath>
-#include <stdio.h>
-int main()
-{
-   // printf() displays the string inside quotation
-   printf("Hello, World!");
-   return 0;
-}      
-```
-      
-    ##### test
-$ \Gamma, G$
-
-$A_G A_\Gamma$
-
-> test
->> $\Gamma$ [Example](http://exmaple.com)
-
-<marquee> NOT! </marquee>
-
-$$ 
-\begin{array}{|c|c|c|c|}
-\hline
-1& 1 > -1 & 1 & -1 \\ \hline
-& 3 & 55 & 44\\ \hline
-& 4 & 93 & 33\\ \hline
-& 5 & 6 &  22\\ \hline
-\end{array}$$
-
-```
-if (1 <b> a </b> 2)
-```
-  
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>

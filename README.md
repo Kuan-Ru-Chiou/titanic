@@ -6,7 +6,4 @@ suvive
 
 ### hello world
 
-| 左对齐 | 右对齐 | 居中对齐 |
-| :-----| ----: | :----: |
-| 单元格1111111 | 单元格 | 单元格 |
-| 单元格 | 单元格 | 单元格 |
+![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
